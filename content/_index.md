@@ -27,5 +27,9 @@ _**Grímnismál, The says of Grímnir**_
 
 ## Orchestration for Devices
 
+Glaðsheimr is an open project to explore orchestration of complete stack applications on endpoint clouds. 
+Orchestration allows building applications that are self contained and resilient as clouds that run close to their data
+and application in the real world. 
+
 
 
