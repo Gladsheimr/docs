@@ -1,3 +1,10 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Glaðsheimr"
+
+[params]
+
+BookToC = true
+BookMenuBundle = "/menu"
+
+BookSearch = true
