@@ -3,5 +3,6 @@ headless: true
 bookMenuLevels: 1
 ---
 
+- [Overview]({{< relref "/">}})
+- [Research]({{< relref "/docs/research" >}})
 
-- [Table of Contents]({{< relref "/docs/page-one" >}})
