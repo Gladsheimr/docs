@@ -81,9 +81,9 @@ graph TD
   C -->| Deploys | D[TooManyCooks]
   C -->| Deploys | E[Waister]
   C -->| Deploys | F[GoodFood]
-  D -->| Presence Detected in Kitchen | F[Signal Aggregrator]
-  E -->| Waist Circumference Measurement | F
-  F -->| Low Power Bluetooth Collection | B
+  D -->| Presence Detected<br />in Kitchen | F[Signal Aggregrator]
+  E -->| Waist<br /> Circumference<br /> Measurement | F
+  F -->| Low Power Bluetooth <br /> Collection | B
 {{< /mermaid >}}
 
 In this scenario locality of computation, modelling and data is kept to where Alice is and where her health matters. Developing such an application requires a few underlying components:
