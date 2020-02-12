@@ -3,13 +3,18 @@ title: Research
 type: docs
 ---
 
+
+
 # Research 
+
+**by Kartik Thakore**
 
 Glaðsheimr research is based around a vision:
 
-*Orchestrating and integrating computation, biology and engineering principals*
+*Orchestrating and integrating ML, devices and engineering principles to provide complete stack applications as opposed to full stack*
 
-## Cybernetics: Complete Stack Applications
+## Cybernetics and Mobile Health 
+**An Complete Stack Application**
 
 Defining cybernetics as a merger between hardware, software and biology we can imagine health (behavior change) apps today
 as such a device. 
