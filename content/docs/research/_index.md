@@ -75,15 +75,15 @@ Each of these services can be put into a local cloud or more apt endpoint cloud.
 ## Endpoint Cloud
 {{< mermaid >}}
 graph TD
-  A[Alice] -->|Labels| B(Alice Health App)
+  A[Alice] -->| Labels | B(Alice Health App)
   B --> R{should retrain ?}
   R --> C(Training Device)
-  C -->|Deploys| D[TooManyCooks]
-  C -->|Deploys| E[Waister]
-  C -->|Deploys| F[GoodFood]
-  D -->|Presence Detected in Kitchen| F[Signal Aggregrator]
-  E -->|Waist Circumference Measurement| F
-  F -->|Low Power Bluetooth Collection| B
+  C -->| Deploys | D[TooManyCooks]
+  C -->| Deploys | E[Waister]
+  C -->| Deploys | F[GoodFood]
+  D -->| Presence Detected in Kitchen | F[Signal Aggregrator]
+  E -->| Waist Circumference Measurement | F
+  F -->| Low Power Bluetooth Collection | B
 {{< /mermaid >}}
 
 In this scenario locality of computation, modelling and data is kept to where Alice is and where her health matters. Developing such an application requires a few underlying components:
