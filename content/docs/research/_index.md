@@ -7,7 +7,7 @@ type: docs
 
 # Research 
 
-**by Kartik Thakore**
+**by [Kartik Thakore](https://twitter.com/KartikThakore)**
 
 Glaðsheimr research is based around a vision:
 
