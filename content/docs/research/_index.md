@@ -28,7 +28,7 @@ sequenceDiagram
 ### Inefficient Integrations
 
 In this case Alice, her biology, software on the app and wearable devices are integrated into an overall goal; Making Alice Healthy. This type of complete stack application
-are requiring extra steps to provide a lack luster solution (mobile health apps are notoriously bad at achieving results and health is hard). Data used to determine successes of the application is derivative and the end results of numerous processes.  
+are requires extra steps to provide a lack luster solution (mobile health apps are notoriously bad at achieving results and health is hard). Data used to determine successes of the application is derivative and the end results of numerous processes.  
 
 There are a plethora of moving parts and engineering wise this solution is not idea. In integration we want to have a simple critical path that allows:
 
