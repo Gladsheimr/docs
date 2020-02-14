@@ -9,6 +9,6 @@ bookMenuLevels: 1
     - [Mjolnir](https://github.com/Gladsheimr/mjolnir)
 
 - Proof Of Concepts
-    - [Vant](https://github.com/Gladsheimr/csa-vant)
+    - [Vatn](https://github.com/Gladsheimr/csa-vatn)
 
 
