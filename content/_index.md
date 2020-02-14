@@ -39,7 +39,7 @@ Orchestration is a common concept in web development (with projects such as [Kub
 
 ## Proof Of Concepts
 
-1. Vant: Does your water intake increases morning energy?
+1. [Vant](https://github.com/Gladsheimr/csa-vant): Does your water intake increases morning energy?
    1. Water tracking: Audio signals based on poured water
    2. Person energy: Time spent in bed tracked with human presence or sleep tracking 
    3. Integration using only bluetooth mesh protocols
