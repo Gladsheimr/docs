@@ -5,6 +5,7 @@ type: docs
 
 # Glaðsheimr
 
+
 {{< columns >}}
 
 ![Glaðsheimr](/img/icon.png)
@@ -45,6 +46,10 @@ Orchestration is a common concept in web development (with projects such as [Kub
    3. Integration using only bluetooth mesh protocols
 2. Another concept is built around exploring metabolic syndrome 
 
+
+# Contributors
+
+* [Kartik Thakore](https://twitter.com/KartikThakore)
 
 
 
