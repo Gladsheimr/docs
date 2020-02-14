@@ -27,7 +27,7 @@ _**Grímnismál, The says of Grímnir**_
 
 # Vision
 
-Glaðsheimr is an open project to research building complete applications that are capable of providing true privacy and transparency to end users. [Research]({{< relref "/docs/research" >}}) is focused on developing use cases and employing technologies such as (TinyML)[https://tinymlsummit.org/], FGPAs and concepts of orchestration. Glaðsheimr will also be develop tooling ([Mjolnir](https://github.com/Gladsheimr/mjolnir)) to allow application developers to design, build and orchestrate applications. 
+Glaðsheimr is an open project to research building complete applications that are capable of providing true privacy and transparency to end users. [Research]({{< relref "/docs/research" >}}) is focused on developing use cases and employing technologies such as [TinyML](https://tinymlsummit.org/), FGPAs and concepts of orchestration. Glaðsheimr will also be develop tooling ([Mjolnir](https://github.com/Gladsheimr/mjolnir)) to allow application developers to design, build and orchestrate applications. 
 
 ## Dev Tooling Goals: Orchestration
 
