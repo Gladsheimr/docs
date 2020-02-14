@@ -19,7 +19,7 @@ _The fifth is Glaðsheimr,
     and gold-bright there
  Stands Valhöll stretching wide;
   And there does Oðinn
-   each day choose
+   each day choose \
 The men who have fallen in fight._
 
 _**Grímnismál, The says of Grímnir**_
