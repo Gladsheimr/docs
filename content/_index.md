@@ -27,9 +27,9 @@ _**Grímnismál, The says of Grímnir**_
 
 # Vision
 
-Glaðsheimr is an open project to research building complete applications that are capable of providing true privacy and transparency to end users. [Research]({{< relref "/docs/research" >}}) is focused on developing use cases and employing technologies such as [TinyML](https://tinymlsummit.org/), FGPAs and concepts of orchestration. Glaðsheimr will also be develop tooling ([Mjolnir](https://github.com/Gladsheimr/mjolnir)) to allow application developers to design, build and orchestrate applications. 
+Glaðsheimr is an open project to research building complete applications that are capable of providing true privacy and transparency to end users. [Research]({{< relref "/docs/research" >}}) is focused on developing use cases and technologies that leverages concepts such as [TinyML](https://tinymlsummit.org/), FGPAs and concepts of orchestration. Glaðsheimr will also be develop tooling ([Mjolnir](https://github.com/Gladsheimr/mjolnir)) to allow application developers to design, build and orchestrate applications. 
 
-## Dev Tooling Goals: Orchestration
+## What is Orchestration?
 
 Orchestration is the automatic process of managing or scheduling the work of individual components (models, sensors, frontend)
 within multiple devices. Orchestration automates such things as configuration, availability, provisioning and health monitoring of the application.
