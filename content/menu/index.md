@@ -9,6 +9,6 @@ bookMenuLevels: 1
     - [Mjolnir: Ochestration Framework](https://github.com/Gladsheimr/mjolnir)
 
 - Proof Of Concepts
-    - [Vant]({{< relref "/docs/proof_of_concepts/vant" >}})
+    - [Vant](https://github.com/Gladsheimr/csa-vant)
 
 
