@@ -99,7 +99,18 @@ In this scenario locality of computation, modelling and data is kept to where Al
 These components need to part of the orchestration fabric. The major advantages to this step is the fewest number of integrations back to a central server that is out of control/hand for Alice. Additionally, in this complete stack the focus is completely relevant to specific biological signals that don't require integration with other partners. Finally, Alice has complete control of her data and models that are used to help her. Everything is owned by her. 
 
 
-In the next chapter we will explore developing this usecase. 
+## Next Steps
+
+1. Deploy a hybrid application to multiple devices
+    1. Use [`mjl`](https://github.com/Gladsheimr/mjolnir) to config/deploy/monitor an application
+
+1. [Orchestration]({{< relref "/docs/research/orchestration" >}}) of applications (horizontal/vertical)
+    1. FPGAs 
+        1. Same application over multiple FPGAs
+        2. One application over several FPGAs 
+        3. Clustered services over FPGA
+    1. Micro-controller driver orchestration
+        1. Data extraction and transmission for services
 
 
 
