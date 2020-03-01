@@ -10,6 +10,7 @@ bookMenuLevels: 1
     - [Mjolnir](https://github.com/Gladsheimr/mjolnir)
 
 - Proof Of Concepts
+    - [Audio FPGA]({{< relref "/docs/proof_of_concepts/audio-fpga" >}})
     - [Vatn](https://github.com/Gladsheimr/csa-vatn)
 
 
